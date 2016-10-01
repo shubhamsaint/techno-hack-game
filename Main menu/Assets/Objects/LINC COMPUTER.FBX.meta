@@ -1,0 +1,116 @@
+fileFormatVersion: 2
+guid: 434c206595deff147988ee6151fb9ba8
+timeCreated: 1458673858
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Case_Box
+    100002: Case_Box01
+    100004: Case_Box02
+    100006: Case_Box03
+    100008: Control_Panel
+    100010: //RootNode
+    100012: LINC_Keyboard
+    100014: Monitor_Panel
+    100016: Probe_Interface_Panel
+    100018: Tape_Panel
+    400000: Case_Box
+    400002: Case_Box01
+    400004: Case_Box02
+    400006: Case_Box03
+    400008: Control_Panel
+    400010: //RootNode
+    400012: LINC_Keyboard
+    400014: Monitor_Panel
+    400016: Probe_Interface_Panel
+    400018: Tape_Panel
+    2300000: Case_Box
+    2300002: Case_Box01
+    2300004: Case_Box02
+    2300006: Case_Box03
+    2300008: Control_Panel
+    2300010: LINC_Keyboard
+    2300012: Monitor_Panel
+    2300014: Probe_Interface_Panel
+    2300016: Tape_Panel
+    3300000: Case_Box
+    3300002: Case_Box01
+    3300004: Case_Box02
+    3300006: Case_Box03
+    3300008: Control_Panel
+    3300010: LINC_Keyboard
+    3300012: Monitor_Panel
+    3300014: Probe_Interface_Panel
+    3300016: Tape_Panel
+    4300000: Tape_Panel
+    4300002: Control_Panel
+    4300004: Monitor_Panel
+    4300006: Case_Box
+    4300008: Probe_Interface_Panel
+    4300010: Case_Box01
+    4300012: Case_Box02
+    4300014: Case_Box03
+    4300016: LINC_Keyboard
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 107827c6c71370540a92864a57dd698a
+timeCreated: 1458467142
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bottle
+    100004: bottle 1
+    100006: bottle01
+    100008: bottle02
+    100010: bottle1
+    100012: bottle2
+    100014: Bottom_Hemisphere
+    100016: Cylinder01
+    100018: Cylinder02
+    100020: Cylinder03
+    100022: glass
+    100024: glass01
+    100026: glass02
+    100028: glass03
+    100030: glass04
+    100032: glass05
+    100034: Globe_Cradle
+    100036: Open_Arc_Pivot
+    100038: Top_Hemisphere
+    400000: //RootNode
+    400002: bottle
+    400004: bottle 1
+    400006: bottle01
+    400008: bottle02
+    400010: bottle1
+    400012: bottle2
+    400014: Bottom_Hemisphere
+    400016: Cylinder01
+    400018: Cylinder02
+    400020: Cylinder03
+    400022: glass
+    400024: glass01
+    400026: glass02
+    400028: glass03
+    400030: glass04
+    400032: glass05
+    400034: Globe_Cradle
+    400036: Open_Arc_Pivot
+    400038: Top_Hemisphere
+    2300000: bottle 1
+    2300002: bottle01
+    2300004: bottle02
+    2300006: Bottom_Hemisphere
+    2300008: Cylinder01
+    2300010: Cylinder02
+    2300012: Cylinder03
+    2300014: glass
+    2300016: glass01
+    2300018: glass02
+    2300020: glass03
+    2300022: glass04
+    2300024: glass05
+    2300026: Globe_Cradle
+    2300028: Open_Arc_Pivot
+    2300030: Top_Hemisphere
+    3300000: bottle 1
+    3300002: bottle01
+    3300004: bottle02
+    3300006: Bottom_Hemisphere
+    3300008: Cylinder01
+    3300010: Cylinder02
+    3300012: Cylinder03
+    3300014: glass
+    3300016: glass01
+    3300018: glass02
+    3300020: glass03
+    3300022: glass04
+    3300024: glass05
+    3300026: Globe_Cradle
+    3300028: Open_Arc_Pivot
+    3300030: Top_Hemisphere
+    4300000: Bottom_Hemisphere
+    4300002: Open_Arc_Pivot
+    4300004: Top_Hemisphere
+    4300006: Globe_Cradle
+    4300008: Cylinder01
+    4300010: bottle
+    4300012: Cylinder02
+    4300014: bottle01
+    4300016: Cylinder03
+    4300018: bottle02
+    4300020: glass
+    4300022: glass01
+    4300024: glass02
+    4300026: glass03
+    4300028: glass04
+    4300030: glass05
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
